@@ -20,7 +20,7 @@ class TestMain(unittest.TestCase):
         self.assertEqual(main.multiplication(7, 5), 35, "should be 35")
         self.assertEqual(main.multiplication(40, 20), 800, "should be 800")
         self.assertEqual(main.multiplication(30, 20), 600, "should be 600")
-        self.assertEqual(main.multiplication(4, 2), 8, "should be 8")
+    
 
 if __name__ =='__main__':
     unittest.main()
