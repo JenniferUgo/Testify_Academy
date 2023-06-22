@@ -13,7 +13,7 @@ class TestMain(unittest.TestCase):
         self.assertEqual(main.subtraction(7, 5), 2, "should be 2")
         self.assertEqual(main.subtraction(40, 20), 20, "should be 20")
         self.assertEqual(main.subtraction(300, 20), 280, "should be 280")
-        self.assertEqual(main.subtraction(4, 2), 2, "should be 2")
+        self.assertEqual(main.subtraction(4, 4), 0, "should be 0")
 
     def test_multiplication(self):
         self.assertEqual(main.multiplication(8, 2), 16, "should be 16")
