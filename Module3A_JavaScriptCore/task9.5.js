@@ -3,7 +3,7 @@ function convertCelsiusToFahrenheit(celsius) {
     return fahrenheit;
   }
   
-  const celsiusTemperature = 32; // Enter the temperature in degrees Celsius here
+  const celsiusTemperature = 32; // the temperature
   const fahrenheitTemperature = convertCelsiusToFahrenheit(celsiusTemperature);
   
   console.log(celsiusTemperature + '°C is approximately equal to ' + fahrenheitTemperature + '°F.');
