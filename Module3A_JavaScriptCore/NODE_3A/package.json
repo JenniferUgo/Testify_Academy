@@ -1,0 +1,11 @@
+{
+  "name": "lesson42",
+  "version": "1.0.0",
+  "description": "lesson 42 nodejs",
+  "main": "t16index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jennifer",
+  "license": "ISC"
+}
