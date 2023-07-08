@@ -1,8 +1,6 @@
 /** 
 My Personal Library 2
 
-
-
 Task
 
 Add a toggleReadingStatus method to your books objects. 
