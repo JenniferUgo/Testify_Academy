@@ -1,0 +1,288 @@
+{
+	"info": {
+		"_postman_id": "271d5810-845f-4dff-b8e4-ae9f0e031178",
+		"name": "TAS Module3B API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23154523",
+		"_collection_link": "https://universal-comet-624641.postman.co/workspace/TAS~1ae66a16-76b9-417f-b94d-41a685588ed8/collection/23154523-271d5810-845f-4dff-b8e4-ae9f0e031178?action=share&creator=23154523&source=collection_link"
+	},
+	"item": [
+		{
+			"name": "3BTask2_GET",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"response is ok\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.google.com/search?q=Jennifer+Ugo",
+					"protocol": "https",
+					"host": [
+						"www",
+						"google",
+						"com"
+					],
+					"path": [
+						"search"
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "Jennifer+Ugo"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3BTask2_Post",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"// pm.test(\"Returns 7 char alphanumeric id\", function () {\r",
+							"//     let jsonData = pm.response.json();\r",
+							"//     pm.expect(jsonData.form.someHash).to.match(/^[a-z0-9]{7}$/);\r",
+							"// });\r",
+							"\r",
+							"// pm.test(\"Returns 15 char alhpanumeric id\", function () {\r",
+							"//     let jsonData = pm.response.json();\r",
+							"//     pm.expect(jsonData.form.secondHash).to.match(/^[a-z0-9]{15}$/);\r",
+							"// });\r",
+							"\r",
+							"\r",
+							"pm.test(\"Returns 15 char alhpanumeric id\", function () {\r",
+							"    var jsonData = pm.response.json();\r",
+							"    pm.expect(jsonData.value).to.eql(100);\r",
+							"});\r",
+							"\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "someHash",
+							"value": "7654321",
+							"type": "text"
+						},
+						{
+							"key": "secondHash",
+							"value": "987654321asdfgh",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://postman-echo.com/post",
+					"protocol": "https",
+					"host": [
+						"postman-echo",
+						"com"
+					],
+					"path": [
+						"post"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3BTask2_Post 2",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Returns 7 char alphanumeric id\", function () {\r",
+							"    let jsonData = pm.response.json();\r",
+							"    pm.expect(jsonData.form.someHash).to.match(/^[a-z0-9]{7}$/);\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Returns 8 char alhpanumeric id\", function () {\r",
+							"    let jsonData = pm.response.json();\r",
+							"    pm.expect(jsonData.form.secondHash).to.match(/^[a-z0-9]{8}$/);\r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "someHash",
+							"value": "4543456",
+							"type": "text"
+						},
+						{
+							"key": "secondHash",
+							"value": "43434343",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://postman-echo.com/post",
+					"protocol": "https",
+					"host": [
+						"postman-echo",
+						"com"
+					],
+					"path": [
+						"post"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3BTask2_Delete",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"response is ok\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"",
+							"let jsonResponse = pm.response.json();",
+							"",
+							"pm.test(\"Response should be a parsable JSON\", function() {",
+							"    pm.expect(jsonResponse).to.be.ok;",
+							"});",
+							"",
+							"pm.test(\"Response body should be an object\", function() {",
+							"    pm.expect(jsonResponse).to.be.an('object');",
+							"});",
+							"",
+							"pm.test(\"Response body should be in the correct format\", function() {",
+							"    pm.expect(jsonResponse.args).to.be.a('object');",
+							"    pm.expect(jsonResponse.data).to.be.a('string');",
+							"    pm.expect(jsonResponse.files).to.be.a('object');",
+							"    pm.expect(jsonResponse.form).to.be.a('object');",
+							"    pm.expect(jsonResponse.headers).to.be.a('object');",
+							"});",
+							"",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "This is expected to be sent back as part of response body."
+				},
+				"url": {
+					"raw": "https://postman-echo.com/delete",
+					"protocol": "https",
+					"host": [
+						"postman-echo",
+						"com"
+					],
+					"path": [
+						"delete"
+					]
+				},
+				"description": "This test is written to demonstrate how to bundle several assertions within a single test."
+			},
+			"response": [
+				{
+					"name": "Functional2",
+					"originalRequest": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "This is expected to be sent back as part of response body."
+						},
+						"url": {
+							"raw": "https://postman-echo.com/delete",
+							"protocol": "https",
+							"host": [
+								"postman-echo",
+								"com"
+							],
+							"path": [
+								"delete"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Content-Encoding",
+							"value": "gzip"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Date",
+							"value": "Thu, 15 Nov 2018 22:22:22 GMT"
+						},
+						{
+							"key": "ETag",
+							"value": "W/\"236-unqr/LuiPP07B85WHuciASf+YdA\""
+						},
+						{
+							"key": "Server",
+							"value": "nginx"
+						},
+						{
+							"key": "set-cookie",
+							"value": "sails.sid=s%3Aa9JaDxhKoLl3zyptDL3Vbo-kXgiIoqOY.o566AhO0IGGXbdop127kZi0Xq9bHd0q3RjrHgs2G9c4; Path=/; HttpOnly"
+						},
+						{
+							"key": "Vary",
+							"value": "Accept-Encoding"
+						},
+						{
+							"key": "Content-Length",
+							"value": "415"
+						},
+						{
+							"key": "Connection",
+							"value": "keep-alive"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"args\": {},\n    \"data\": \"This is expected to be sent back as part of response body.\",\n    \"files\": {},\n    \"form\": {},\n    \"headers\": {\n        \"x-forwarded-proto\": \"https\",\n        \"host\": \"postman-echo.com\",\n        \"content-length\": \"58\",\n        \"accept\": \"*/*\",\n        \"accept-encoding\": \"gzip, deflate\",\n        \"cache-control\": \"no-cache\",\n        \"content-type\": \"text/plain\",\n        \"cookie\": \"sails.sid=s%3AG3Skk-KwKzhuN9bCFLG38XDvX_n76FY7.SnEQNLnssVB0vIWq0%2Bqn%2FoZhMdvJqAp6Toc8YMDlMhw\",\n        \"postman-token\": \"a26a6cbb-abb4-4e8b-8a1e-4ba63450afcb\",\n        \"user-agent\": \"PostmanRuntime/7.3.0\",\n        \"x-forwarded-port\": \"443\"\n    },\n    \"json\": null,\n    \"url\": \"https://postman-echo.com/delete\"\n}"
+				}
+			]
+		}
+	]
+}
