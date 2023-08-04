@@ -1,0 +1,228 @@
+{
+	"info": {
+		"_postman_id": "c231347b-2039-430d-8b53-f706c1987a00",
+		"name": "TAS Module3B_T4 API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23154523",
+		"_collection_link": "https://universal-comet-624641.postman.co/workspace/TAS~1ae66a16-76b9-417f-b94d-41a685588ed8/collection/23154523-c231347b-2039-430d-8b53-f706c1987a00?action=share&creator=23154523&source=collection_link"
+	},
+	"item": [
+		{
+			"name": "Task4 Tests",
+			"item": [
+				{
+					"name": "Get All Books",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status code is 200\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});\r",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/books",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"books"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Book ID",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"// Parse the response JSON data\r",
+									"const jsonData = pm.response.json();\r",
+									"\r",
+									"// Check if the response contains the book ID\r",
+									"if (Array.isArray(jsonData) && jsonData.length > 0) {\r",
+									"  const bookId = jsonData[0].id;\r",
+									"\r",
+									"  // Set the extracted book ID as an environment variable\r",
+									"  pm.environment.set(\"bookId\", bookId);\r",
+									"\r",
+									"  console.log(`Successfully set bookId: ${bookId}`);\r",
+									"} else {\r",
+									"  console.log(\"Book with the name 'The Russian' not found in the response.\");\r",
+									"}\r",
+									"\r",
+									"// Verify the book ID is set correctly in the environment\r",
+									"pm.test(\"Verify the book id in the environment\", function () {\r",
+									"  pm.expect(pm.environment.get(\"bookId\")).to.eql(jsonData[0].id);\r",
+									"});\r",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/books",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"books"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Place an Order",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Successful POST request\", function () {\r",
+									"    pm.expect(pm.response.code).to.be.oneOf([201, 202]);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "6347ee29645a0972e72dc6ba1d571231f25327d7748de7956fdba15a7c596607",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "bookId",
+								"value": "1",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"bookId\": {{bookId}},\r\n  \"customerName\": \"Jennifer\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/orders",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"orders"
+							],
+							"query": [
+								{
+									"key": "bearerToken",
+									"value": "{{bearerToken}}",
+									"disabled": true
+								},
+								{
+									"key": "{{bookId}}",
+									"value": null,
+									"disabled": true
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Place an Order Failed Test",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"// pm.test(\"Successful POST request\", function () {\r",
+									"//     pm.expect(pm.response.code).to.be.oneOf([400,404]);\r",
+									"// });"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "6347ee29645a0972e72dc6ba1d571231f25327d7748de7956fdba15a7c596607",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "bookId",
+								"value": "1",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"bookId\": {{bookId}},\r\n  \"customerName\": \"Jennifer\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/orders",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"orders"
+							],
+							"query": [
+								{
+									"key": "bearerToken",
+									"value": "{{bearerToken}}",
+									"disabled": true
+								},
+								{
+									"key": "{{bookId}}",
+									"value": null,
+									"disabled": true
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,19 @@
+// Parse the response JSON data
+const jsonData = pm.response.json();
+
+// Check if the response contains the book ID
+if (Array.isArray(jsonData) && jsonData.length > 0) {
+  const bookId = jsonData[0].id;
+
+  // Set the extracted book ID as an environment variable
+  pm.environment.set("bookId", bookId);
+
+  console.log(`Successfully set bookId: ${bookId}`);
+} else {
+  console.log("Book with the name 'The Russian' not found in the response.");
+}
+
+// Verify the book ID is set correctly in the environment
+pm.test("Verify the book id in the environment", function () {
+  pm.expect(pm.environment.get("bookId")).to.eql(jsonData[0].id);
+});
