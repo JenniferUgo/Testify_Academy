@@ -1,0 +1,2 @@
+level: log, messages: Response Status:,401
+level: log, messages: Response Body:,{"message":"Key not found","code":"unauthorized"}
