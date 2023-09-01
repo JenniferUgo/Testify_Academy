@@ -1,0 +1,25 @@
+
+>
+java:S1643"Use a StringBuilder instead.(ÛÉ¹ûúÿÿÿÿ8¥¥í¥1
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(«¾êøÿÿÿÿ8Ñ¥í¥1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ–ù¼øÿÿÿÿ8Ò¥í¥1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…ãªæøÿÿÿÿ8Ó¥í¥1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¦ù€©øÿÿÿÿ8Ô¥í¥1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ù»åÁ8Ö¥í¥1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(éäå»ıÿÿÿÿ8×¥í¥1
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(¡‘Ñ8×¥í¥1
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(¾§†ƒûÿÿÿÿ8Ø¥í¥1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.( ìÚÖÿÿÿÿÿ8Ù¥í¥1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(Ä¤÷‡üÿÿÿÿ8Ú¥í¥1
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(»»¸°ûÿÿÿÿ8Ú¥í¥1
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(àØğÁúÿÿÿÿ8Û¥í¥1
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(šäÍÅ8Û¥í¥1
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(÷ê®¸8Ü¥í¥1
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(¸Û‰İ8Ü¥í¥1
+T	java:S1066"9Replace this use of System.out or System.err by a logger.(âº¦F8İ¥í¥1
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(îÜÍëûÿÿÿÿ8ß¥í¥1
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(Ä÷²Áÿÿÿÿÿ8ß¥í¥1
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(ÔìÏñ8ß¥í¥1
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ÕÀê†øÿÿÿÿ8à¥í¥1
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(¯Àúı8à¥í¥1
