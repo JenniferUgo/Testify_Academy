@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a91227c-0d9b-4ac4-a0d3-3580a4dc26f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Task2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task2/.idea/sonarlint/issuestore/2/3/23b164b112a5120c922b341e5fbb5562973bef24" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task2/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task2/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task2/.idea/sonarlint/issuestore/a/8/a8d7986795dbf3382ae11f43160e3d1d68e5ca54" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task2/.idea/sonarlint/issuestore/b/a/bab51afd193e3050318632462246bd09a19eec0c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task2/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task2/.idea/sonarlint/securityhotspotstore/2/3/23b164b112a5120c922b341e5fbb5562973bef24" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task2/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task2/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task2/.idea/sonarlint/securityhotspotstore/a/8/a8d7986795dbf3382ae11f43160e3d1d68e5ca54" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task2/.idea/sonarlint/securityhotspotstore/b/a/bab51afd193e3050318632462246bd09a19eec0c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task2/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task2/src/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task2/src/main/java/com/jennifer/Class1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task2/src/main/java/com/jennifer/Class2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task2/src/main/java/com/jennifer/Class3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task3/Element1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task3/Element2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task3/Element3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task4/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task4/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task4/src/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task5/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task5/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task5/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task5/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task5/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task5/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task5/src/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/src/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Eight_Integers/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Eight_Integers/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Eight_Integers/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Eight_Integers/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Eight_Integers/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Eight_Integers/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Eight_Integers/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Eight_Integers/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Eight_Integers/src/main/java/com/jennifer/CountingSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Eight_Integers/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Five_Anagram/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Five_Anagram/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Five_Anagram/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Five_Anagram/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Five_Anagram/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Five_Anagram/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Five_Anagram/.idea/sonarlint/issuestore/6/e/6e33645451f26ebd4f27b83731418c999e2bbd1a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Five_Anagram/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Five_Anagram/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Five_Anagram/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Five_Anagram/.idea/sonarlint/securityhotspotstore/6/e/6e33645451f26ebd4f27b83731418c999e2bbd1a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Five_Anagram/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Five_Anagram/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Five_Anagram/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Five_Anagram/src/main/java/com/jennifer/AnagramBuckets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Five_Anagram/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Four_PrimeNumbers/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Four_PrimeNumbers/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Four_PrimeNumbers/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Four_PrimeNumbers/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Four_PrimeNumbers/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Four_PrimeNumbers/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Four_PrimeNumbers/.idea/sonarlint/issuestore/9/a/9a4fb4383b005e074e8246a1f7df7424455e5da6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Four_PrimeNumbers/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Four_PrimeNumbers/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Four_PrimeNumbers/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Four_PrimeNumbers/.idea/sonarlint/securityhotspotstore/9/a/9a4fb4383b005e074e8246a1f7df7424455e5da6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Four_PrimeNumbers/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Four_PrimeNumbers/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Four_PrimeNumbers/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Four_PrimeNumbers/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Four_PrimeNumbers/src/main/java/com/jennifer/PrimeNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/One_Palindromes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/One_Palindromes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/One_Palindromes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/One_Palindromes/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/One_Palindromes/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/One_Palindromes/.idea/sonarlint/issuestore/9/c/9c70897cdcb1b0ef770a37d322e6bf728389264e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/One_Palindromes/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/One_Palindromes/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/One_Palindromes/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/One_Palindromes/.idea/sonarlint/securityhotspotstore/9/c/9c70897cdcb1b0ef770a37d322e6bf728389264e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/One_Palindromes/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/One_Palindromes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/One_Palindromes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/One_Palindromes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/One_Palindromes/src/main/java/com/jennifer/CheckPalindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/One_Palindromes/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Seven_ReverseRecursion/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Seven_ReverseRecursion/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Seven_ReverseRecursion/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Seven_ReverseRecursion/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Seven_ReverseRecursion/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Seven_ReverseRecursion/.idea/sonarlint/issuestore/9/5/95c8931477327121cde50d2e8a7b8fa998589372" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Seven_ReverseRecursion/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Seven_ReverseRecursion/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Seven_ReverseRecursion/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Seven_ReverseRecursion/.idea/sonarlint/securityhotspotstore/9/5/95c8931477327121cde50d2e8a7b8fa998589372" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Seven_ReverseRecursion/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Seven_ReverseRecursion/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Seven_ReverseRecursion/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Seven_ReverseRecursion/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Seven_ReverseRecursion/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Seven_ReverseRecursion/src/main/java/com/jennifer/ReverseStringRecursively.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Six_AnagramInStrings/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Six_AnagramInStrings/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Six_AnagramInStrings/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Six_AnagramInStrings/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Six_AnagramInStrings/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Six_AnagramInStrings/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Six_AnagramInStrings/.idea/sonarlint/issuestore/b/6/b6e258d3517f7fbf0ece930d1cc7178ffcaba4e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Six_AnagramInStrings/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Six_AnagramInStrings/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Six_AnagramInStrings/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Six_AnagramInStrings/.idea/sonarlint/securityhotspotstore/b/6/b6e258d3517f7fbf0ece930d1cc7178ffcaba4e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Six_AnagramInStrings/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Six_AnagramInStrings/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Six_AnagramInStrings/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Six_AnagramInStrings/src/main/java/com/jennifer/AnagramChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Six_AnagramInStrings/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Three_Product/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Three_Product/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Three_Product/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Three_Product/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Three_Product/.idea/sonarlint/issuestore/2/9/296b1b007bd97137999de57c806f78da16aecec9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Three_Product/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Three_Product/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Three_Product/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Three_Product/.idea/sonarlint/securityhotspotstore/2/9/296b1b007bd97137999de57c806f78da16aecec9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Three_Product/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Three_Product/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Three_Product/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Three_Product/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Three_Product/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Three_Product/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Three_Product/src/main/java/com/jennifer/MaxProductInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Two_Recursion/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Two_Recursion/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Two_Recursion/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Two_Recursion/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Two_Recursion/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Two_Recursion/.idea/sonarlint/issuestore/6/8/6865053942eb9fa6ba243b765555b389389fc2ae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Two_Recursion/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Two_Recursion/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Two_Recursion/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Two_Recursion/.idea/sonarlint/securityhotspotstore/6/8/6865053942eb9fa6ba243b765555b389389fc2ae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Two_Recursion/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Two_Recursion/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Two_Recursion/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Two_Recursion/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Two_Recursion/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 Week Challenge/Two_Recursion/src/main/java/com/jennifer/ReverseWordsRecursively.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task1/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task1/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task1/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task1/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task1/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task1/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task1/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task10/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task10/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task10/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task10/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task10/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task10/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task10/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task10/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task11/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task11/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task11/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task11/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task11/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task11/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task11/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task11/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task11/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task11/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task11/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task11/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task12/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task12/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task12/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task12/.idea/sonarlint/issuestore/3/1/315f9c28fc26b4a3647dc13687713970055a325c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task12/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task12/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task12/.idea/sonarlint/issuestore/b/b/bba7a40f8174bddecfd64f7aa273551bcc85e5ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task12/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task12/.idea/sonarlint/securityhotspotstore/3/1/315f9c28fc26b4a3647dc13687713970055a325c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task12/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task12/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task12/.idea/sonarlint/securityhotspotstore/b/b/bba7a40f8174bddecfd64f7aa273551bcc85e5ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task12/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task12/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task12/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task12/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task12/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task12/src/main/java/com/jennifer/package1/ClassA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task12/src/main/java/com/jennifer/package2/ClassB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task13/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task13/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task13/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task13/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task13/.idea/sonarlint/issuestore/0/5/05f2d10d0f90596aab84618c3d9d5a188a7b3081" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task13/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task13/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task13/.idea/sonarlint/issuestore/a/0/a0b4f2bcaf7de0823274cd635e81b9a89c28cf62" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task13/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task13/.idea/sonarlint/securityhotspotstore/0/5/05f2d10d0f90596aab84618c3d9d5a188a7b3081" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task13/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task13/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task13/.idea/sonarlint/securityhotspotstore/a/0/a0b4f2bcaf7de0823274cd635e81b9a89c28cf62" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task13/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task13/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task13/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task13/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task13/src/main/java/Package1/ClassA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task13/src/main/java/Package1/ClassB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task13/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task14/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task14/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task14/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task14/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task14/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task14/.idea/sonarlint/issuestore/e/7/e71e37e1e9dadcd7d5b3c2c52c118ff037afaabe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task14/.idea/sonarlint/issuestore/f/5/f57d89b5860ecb4f87edd7eb3286c083bd07d40b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task14/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task14/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task14/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task14/.idea/sonarlint/securityhotspotstore/e/7/e71e37e1e9dadcd7d5b3c2c52c118ff037afaabe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task14/.idea/sonarlint/securityhotspotstore/f/5/f57d89b5860ecb4f87edd7eb3286c083bd07d40b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task14/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task14/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task14/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task14/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task14/src/main/java/com/jennifer/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task14/src/main/java/com/jennifer/ClassA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task14/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task15/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task15/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task15/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task15/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task15/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task15/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task15/.idea/sonarlint/issuestore/8/7/8724e926e4c4d509244cbf462791a288f9ceeade" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task15/.idea/sonarlint/issuestore/f/5/f57d89b5860ecb4f87edd7eb3286c083bd07d40b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task15/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task15/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task15/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task15/.idea/sonarlint/securityhotspotstore/8/7/8724e926e4c4d509244cbf462791a288f9ceeade" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task15/.idea/sonarlint/securityhotspotstore/f/5/f57d89b5860ecb4f87edd7eb3286c083bd07d40b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task15/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task15/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task15/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task15/src/main/java/com/jennifer/ClassA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task15/src/main/java/com/jennifer/ClassB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task15/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16A/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16A/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16A/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16A/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16A/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16A/.idea/sonarlint/issuestore/7/7/779e09a3a41a028ec7c5c46b7a3eddfd53773357" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16A/.idea/sonarlint/issuestore/8/e/8ef75cad98834127cbbe1bc00050912bdd197493" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16A/.idea/sonarlint/issuestore/c/c/ccd7d80b80aa7169ac082f8e036dacd2bafeeb7d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16A/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16A/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16A/.idea/sonarlint/securityhotspotstore/7/7/779e09a3a41a028ec7c5c46b7a3eddfd53773357" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16A/.idea/sonarlint/securityhotspotstore/8/e/8ef75cad98834127cbbe1bc00050912bdd197493" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16A/.idea/sonarlint/securityhotspotstore/c/c/ccd7d80b80aa7169ac082f8e036dacd2bafeeb7d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16A/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16A/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16A/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16A/src/main/java/com/jennifer/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16A/src/main/java/com/jennifer/Converter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16A/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16A/src/main/java/com/jennifer/StringManipulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16B/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16B/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16B/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16B/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16B/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16B/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16B/.idea/sonarlint/issuestore/5/a/5a353f368accd5d2aa4f3a039eef57c7414be541" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16B/.idea/sonarlint/issuestore/d/2/d2e347bb3094362c32544a4aa714670d055aeef5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16B/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16B/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16B/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16B/.idea/sonarlint/securityhotspotstore/5/a/5a353f368accd5d2aa4f3a039eef57c7414be541" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16B/.idea/sonarlint/securityhotspotstore/d/2/d2e347bb3094362c32544a4aa714670d055aeef5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16B/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16B/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16B/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16B/src/main/java/com/jennifer/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16B/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task16B/src/main/java/com/jennifer/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17A/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17A/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17A/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17A/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17A/.idea/sonarlint/issuestore/3/b/3ba6f64211b5b3147af71a8f403fb0bf157f44db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17A/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17A/.idea/sonarlint/issuestore/8/9/898fa7343284a8026ad7286a4cdb1b31e8cae57c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17A/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17A/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17A/.idea/sonarlint/securityhotspotstore/3/b/3ba6f64211b5b3147af71a8f403fb0bf157f44db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17A/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17A/.idea/sonarlint/securityhotspotstore/8/9/898fa7343284a8026ad7286a4cdb1b31e8cae57c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17A/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17A/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17A/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17A/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17A/src/main/java/com/jennifer/AbstractLoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17A/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17A/src/main/java/com/jennifer/SimpleLoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17B/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17B/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17B/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17B/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17B/.idea/sonarlint/issuestore/f/d/fd6837d0e5bc8041bb2c3661fef52e865a690517" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17B/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17B/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17B/.idea/sonarlint/securityhotspotstore/f/d/fd6837d0e5bc8041bb2c3661fef52e865a690517" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17B/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17B/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17B/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17B/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task17B/src/main/java/com/jennifer/TestCaseGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task18/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task18/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task18/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task18/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task18/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task18/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task18/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task18/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task18/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task18/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task18/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task18/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task18/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task18/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19A/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19A/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19A/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19A/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19A/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19A/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19A/.idea/sonarlint/issuestore/f/5/f57d89b5860ecb4f87edd7eb3286c083bd07d40b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19A/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19A/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19A/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19A/.idea/sonarlint/securityhotspotstore/f/5/f57d89b5860ecb4f87edd7eb3286c083bd07d40b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19A/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19A/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19A/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19A/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19A/src/main/java/com/jennifer/ClassA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19A/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19B/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19B/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19B/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19B/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19B/.idea/sonarlint/issuestore/2/3/23b164b112a5120c922b341e5fbb5562973bef24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19B/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19B/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19B/.idea/sonarlint/issuestore/b/a/bab51afd193e3050318632462246bd09a19eec0c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19B/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19B/.idea/sonarlint/securityhotspotstore/2/3/23b164b112a5120c922b341e5fbb5562973bef24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19B/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19B/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19B/.idea/sonarlint/securityhotspotstore/b/a/bab51afd193e3050318632462246bd09a19eec0c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19B/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19B/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19B/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19B/src/main/java/com/jennifer/Class1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19B/src/main/java/com/jennifer/Class2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19B/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19C/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19C/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19C/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19C/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19C/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19C/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19C/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19C/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19C/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19C/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19C/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19C/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19C/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19D/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19D/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19D/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19D/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19D/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19D/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task19D/src/main/java/com/jennifer/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task2/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task2/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task2/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task2/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task2/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task2/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task2/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task3/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task3/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task3/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task3/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task3/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task3/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task3/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task4/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task4/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task4/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task4/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task4/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task4/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task4/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task5/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task5/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task5/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task5/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task5/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task5/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task5/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task6/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task6/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task6/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task6/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task6/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task6/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task6/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task6/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task6/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task7/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task7/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task7/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task7/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task7/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task7/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task7/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task7/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task7/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task7/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task8/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task8/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task8/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task8/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task8/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task8/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task8/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task8/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task8/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task8/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9A/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9A/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9A/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9A/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9A/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9A/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9A/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9A/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9A/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9A/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9A/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9A/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9A/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9B/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9B/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9B/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9B/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9B/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9B/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9B/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9B/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9B/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9B/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9B/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9B/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task/Task9B/src/main/java/com/jennifer/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2VOrXnZ35936VhPGpxbna5lTKEK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jennifer.Main" />
+      <module name="Task7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jennifer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a91227c-0d9b-4ac4-a0d3-3580a4dc26f4" name="Changes" comment="" />
+      <created>1694718016985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694718016985</updated>
+    </task>
+    <servers />
+  </component>
+</project>
