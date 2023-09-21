@@ -21,3 +21,10 @@ public class Main {
         driver.quit();
     }
 }
+
+//Navigate to https://www.saucedemo.com/
+//Login using username and password.
+//Click on the login button,
+//click on the "add to cart" button of any product (Add only one item)
+//click the cart icon on the top right.
+//Click on checkout.  USE ONLY CSS LOCATION STRATEGY

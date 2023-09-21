@@ -1,0 +1,13 @@
+
+i
+java:S1223
+"LRename this method to prevent any misunderstanding or make it a constructor.(ü»ºÕ8Ë›Í«1
+\
+java:S1118	":Add a private constructor to hide the implicit public one.(›à×çøÿÿÿÿ8Ï›Í«1
+j	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü»ºÕ8Ï›Í«1
+H
+java:S1172
+"+Remove this unused method parameter "args".(ü»ºÕ8Ğ›Í«1
+P
+java:S1128"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠŞ›8Ö›Í«1
