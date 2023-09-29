@@ -30,10 +30,21 @@ public class Main {
 
         Thread.sleep(3000);
         //1. Select by visible text
-        Select country = new Select(selectDropdown);
-        Thread.sleep(3000);
-        country.selectByVisibleText("Nigeria");
-        Thread.sleep(3000);
+//        Select country = new Select(selectDropdown);
+//        Thread.sleep(3000);
+//        country.selectByVisibleText("Nigeria");
+//        Thread.sleep(3000);
+
+        //2. Select by index
+//        Select country = new Select(selectDropdown);
+//        country.selectByIndex(159);
+//        Thread.sleep(3000);
+
+        //3. Select by value
+          Select country = new Select(selectDropdown);
+          country.selectByValue("NG");
+          Thread.sleep(3000);
+
 
         driver.quit();
     }
