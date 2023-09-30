@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test-Suite" >
+    <test name="Demoga" >
+        <classes>
+            <class name="task17.ElementsTest" />
+            <class name="task17.FormsTest" />
+            <class name="task17.InteractionsTest" />
+            <class name="task17.WidgetsTest" />
+        </classes>
+    </test>
+</suite>

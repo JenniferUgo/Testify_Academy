@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e443e975-533e-4087-988a-cfa5201b73d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/issuestore/0/e/0e0716f6046a13682d330dadaba38dea66682c95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/issuestore/2/7/274e144550da7e52553beb3676f8832da3343474" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/issuestore/3/b/3b1ca82d1a02600cc6e9a8e0025920ba3c546afe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/issuestore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/issuestore/a/7/a79f53ddfb0228aa19480932445f42dc5533b165" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/issuestore/d/0/d08a30aa77fe28244cdd62cf6d8274fde9e2c6d1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/issuestore/d/7/d7d33bd930e144d8676a5740fa89bcf0a571fd17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/issuestore/d/7/d7e534fb86d12650216862d09f270b76981f9af5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/issuestore/e/9/e92e4b94924d62ee301a04806c90dc218927dd95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/issuestore/f/2/f225bfaa200bfffd302fc2de6a21b6919ae127e4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/issuestore/f/b/fbfd445cace162af1be084def036545ff840cdc4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/issuestore/f/c/fc8d03217c646a925f2f44e9230b152a747da3a8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/securityhotspotstore/0/e/0e0716f6046a13682d330dadaba38dea66682c95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/securityhotspotstore/2/7/274e144550da7e52553beb3676f8832da3343474" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/securityhotspotstore/3/b/3b1ca82d1a02600cc6e9a8e0025920ba3c546afe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/securityhotspotstore/3/b/3b29a9bd8df93b15a3bbf5b113e1a7a5316b6034" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/securityhotspotstore/a/7/a79f53ddfb0228aa19480932445f42dc5533b165" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/securityhotspotstore/d/0/d08a30aa77fe28244cdd62cf6d8274fde9e2c6d1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/securityhotspotstore/d/7/d7d33bd930e144d8676a5740fa89bcf0a571fd17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/securityhotspotstore/d/7/d7e534fb86d12650216862d09f270b76981f9af5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/securityhotspotstore/e/9/e92e4b94924d62ee301a04806c90dc218927dd95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/securityhotspotstore/f/2/f225bfaa200bfffd302fc2de6a21b6919ae127e4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/securityhotspotstore/f/b/fbfd445cace162af1be084def036545ff840cdc4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/securityhotspotstore/f/c/fc8d03217c646a925f2f44e9230b152a747da3a8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demoga.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task17/ElementsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task17/FormsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task17/InteractionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task17/WidgetsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task17/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Task17/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task17/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Task17/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task18/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task18/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Task18/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task18/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task18/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2W7Erhxw1WQTONO1zFlo8F9VoN4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Testify_Automation\Module4\Module 4B\Task\Task19" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e443e975-533e-4087-988a-cfa5201b73d2" name="Changes" comment="" />
+      <created>1696075418886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696075418886</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
